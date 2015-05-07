@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Mom</string>
+
+    <string name="hello_mom">Hi mom!</string>
+    <string name="edit_message">edit message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">More Options</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
